@@ -1,0 +1,14 @@
+#
+# Copyright (c) 2022 Markus Neifer
+# Licensed under the MIT License.
+# See file LICENSE in project root directory.
+#
+# Set update schedule for GitHub Actions
+
+version: 2
+updates:
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
