@@ -1,8 +1,10 @@
-# .NET Web API Example
+# Microsoft .NET Web API Example
 
 Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
-.NET web API example. Example includes code written in C#.
+Microsoft .NET web API example. Example includes code written in C#.
+
+[![CodeQL](https://github.com/mneiferbag/dotnet-web-api/actions/workflows/codeql.yml/badge.svg)](https://github.com/mneiferbag/dotnet-web-api/actions/workflows/codeql.yml)
 
 ## Links
 
