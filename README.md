@@ -9,7 +9,7 @@ Microsoft .NET web API example. Example includes code written in C#.
 ## Links
 
 * General
-  * [Microsoft .NET Development Examples](https://github.com/mneiferbag/csharp-examples)
+  * [Microsoft .NET Development Examples](https://github.com/mneiferbag/dotnet-examples)
 
 ## Tasks
 
